@@ -55,10 +55,6 @@ An Excel file was also created to check some of the numerical results produced b
 
 **Python · NumPy · QuantLib · Pandas · Matplotlib · React · Excel**
 
-## Main topics
-
-**Quantitative Finance · Derivatives · Monte Carlo Simulation · Counterparty Risk · XVA · Interest Rate Modeling**
-
 ## Limitations
 
 This is an academic project, so the model uses simplified assumptions compared with a production XVA framework used by financial institutions.
@@ -74,10 +70,4 @@ Some possible extensions of the project would be:
 * Dynamic credit-risk modeling
 * Collateralized XVA
 * Further improvements to the dashboard
-
-## Academic project
-
-**ESILV — MSc Financial Engineering**
-Industrial Innovation Project — Project 169
-Team 491
 
