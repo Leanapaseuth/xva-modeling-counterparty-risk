@@ -45,7 +45,7 @@ The dashboard allows the user to:
 * Run the calculation
 * Visualize the results through interactive charts
 
-The frontend was developed with **React** and connected to the quantitative model through a local API.
+Interactive Dashboard : https://xva-dashboard.vercel.app/
 
 ## Validation
 
