@@ -1,0 +1,3 @@
+TradeID,Notional,FixedRate,FloatingIndex,StartDate,MaturityYears,PaymentFrequencyPerYear,DayCount,Payer,Receiver
+IRS_1,10000000,0.015,EURIBOR-6M,2025-11-19,5,2,ACT/360,Bank,Counterparty
+IRS_2,5000000,0.02,EURIBOR-6M,2025-11-19,3,2,ACT/360,Counterparty,Bank

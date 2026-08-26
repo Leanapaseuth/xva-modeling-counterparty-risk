@@ -1,0 +1,3 @@
+CollateralType,IM_method,IM_value,MPR_days,CollateralRate
+InitialMargin,SIMPLIFIED_CONSTANT,200000.0,10,0.001
+VariationMargin,NULL,,2,0.0
